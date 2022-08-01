@@ -1,0 +1,21 @@
+QUESTIONS
+1.Exploration based on date of accidents
+
+Is the number of Accidents per year decreasing ? (from 2005 to 2016)
+Which months have higher frequency of Accidents ?
+Which Day-of-the-Month is most safe to drive ?
+Time series of all accidents from 2005 to 2016
+Time series for all accidents in each year
+2 Exploration based on roads where accidents occured
+
+Which types of roads are high risk?
+Which type of road gradient is high risk?
+3 Exploration based on people involved in the accidents
+
+What was the condition of the people after the accident?
+What was the age distribution of the people involved?
+What was the sex distribution of the people involved?
+4 Exploration based on use of safety equipment
+
+What was the distribution of Safety Equipment used?
+Did use of Safety Eqipment impact condition of people after the accident?

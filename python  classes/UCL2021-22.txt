@@ -1,0 +1,10 @@
+QUESTIONS
+1.Number of goals scored per club(PLOT A GRAPH)
+2.Average playing time per player per club(PLOT A GRAPH)
+3.PLOT AND RETURN A TABLE FOR Top 10 scorers
+4.Top 15 Teams in terms of goals(PLOT A GRAPH AND TABLE)
+5.Goal types analysis (How scored:PLOT A GRAPH)
+6.Goal types analysis (From where scored:PLOT A GRAPH)
+7.Goal types analysis (Player position:PLOT A GRAPH)
+8.Top 15 dribblers(PLOT A GRAPH)
+9.Top 15 Corner Takers(PLOT A GRAPH)
